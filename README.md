@@ -31,7 +31,7 @@ We prioritize user privacy. There’s no need for personal information — minin
 
 ## 🚀 Get Started
 
-1. Download Latest android app. [Download Link](https://github.com/tulobyteofficial/tbyt/raw/refs/heads/main/app-release.apk)
+1. Download Latest android app. [Download Link](https://github.com/tulobyteofficial/tbyt/raw/refs/heads/main/res/app-release.apk)
 
 2. Fund your wallet using USDT-ERC20 or USDT-PoS.
 3. Buy TBYT using your USDT.
