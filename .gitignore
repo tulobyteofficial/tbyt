@@ -8,3 +8,5 @@ staking
 myKey1
 key.pem
 imp.txt
+main.go
+go*
