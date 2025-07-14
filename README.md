@@ -17,17 +17,17 @@ Built on **Polygon**, a high-performance blockchain known for:
 
 At Tulobyte, we believe true value should come from within a system — not from thin air. Here's how our ecosystem is structured:
 
-- **💰 Total Supply**  A fixed supply of **20 billion TBYT tokens** has been generated.
+- **💰 Total Supply:**  A fixed supply of **20 billion TBYT tokens** has been generated.
 
-- **🔒 Platform-Bound Access**  Tokens **cannot be withdrawn** from the platform directly. The only way to extract value is through **staking**.
+- **🔒 Platform-Bound Access:**  Tokens **cannot be withdrawn** from the platform directly. The only way to extract value is through **staking**.
 
-- **🛠️ Developer Allocation**  A **small allocation** is reserved for the development team to **initiate mining** and support early ecosystem activities.
+- **🛠️ Developer Allocation:**  A **small allocation** is reserved for the development team to **initiate mining** and support early ecosystem activities.
 
-- **⏳ Hold to Earn**  Users who **acquire and hold** TBYT over time are **rewarded** for their loyalty through our built-in holding rewards mechanism.
+- **⏳ Hold to Earn:**  Users who **acquire and hold** TBYT over time are **rewarded** for their loyalty through our built-in holding rewards mechanism.
 
-- **⛏️ Finite Mining**  Once all tokens have been mined, **no additional TBYT** will be created.
+- **⛏️ Finite Mining:**  Once all tokens have been mined, **no additional TBYT** will be created.
 
-- **📈 Exchange Launch**  After mining completion, TBYT will be **listed on exchanges** for open trading.
+- **📈 Exchange Launch:**  After mining completion, TBYT will be **listed on exchanges** for open trading.
 
 ---
 
