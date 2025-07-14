@@ -326,8 +326,8 @@ func main() {
 	// v1.0.2
 	// fetching onchain balance
 	http.HandleFunc("/fetchChainBalance", fetchChainBalance)
-	certFile := "/root/TBYT/cert.pem"
-	keyFile := "/root/TBYT/key.pem"
+	certFile := "/root/cert.pem"
+	keyFile := "/root/key.pem"
 	port := ":2021"
 	log.Printf("Server running on https://localhost%s\n", port)
 	err := http.ListenAndServeTLS(port, certFile, keyFile, nil)
