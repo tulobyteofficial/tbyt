@@ -1,13 +1,5 @@
 config.txt
-vars.env
-modals
-fetch
-exchange
-transfer
-staking
+.env
 myKey1
 key.pem
 imp.txt
-main.go
-go.sum
-go.mod
