@@ -6,7 +6,6 @@ import (
 	"io"
 	"net/http"
 	"strconv"
-	"strings"
 	"time"
 
 	"go.mongodb.org/mongo-driver/bson"
@@ -136,8 +135,6 @@ func GetVersion() (string, string) {
 		numbers = append(numbers, string(ch))
 	}
 
-	resultString := strings.Join(numbers, ",")
-
-	return "true", resultString
+	return "true", result.VERSION
 
 }
