@@ -2,4 +2,5 @@ config.txt
 .env
 myKey1
 key.pem
+cert.pem
 imp.txt

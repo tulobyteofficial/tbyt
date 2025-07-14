@@ -118,7 +118,7 @@ func GetVersion() (string, string) {
 	db, err := ConnectDB()
 
 	if err != nil {
-		return "false", "0"
+		return "false", "Error Connecting to DB"
 	}
 	// Database collections
 	fees := db.Collection("platformInfo")
@@ -128,7 +128,7 @@ func GetVersion() (string, string) {
 	err = fees.FindOne(ctx, filter).Decode(&result)
 	if err != nil {
 		if err == mongo.ErrNoDocuments {
-			return "false", "0"
+			return "false", "Database Error"
 		}
 	}
 	var numbers []string
